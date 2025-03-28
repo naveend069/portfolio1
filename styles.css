@@ -694,3 +694,13 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+@media (max-width: 420px) {
+    .home .home-content .text-2{
+        font-size: 40px;
+    }
+    .home .home-content .text-3{
+        font-size: 22px;
+    }
+    .home .home-content a{
+        font-size: 18px;
+    }}
